@@ -1,0 +1,173 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* 1 */
+.baidu-news a {
+    display: inline-block;
+    color: black;
+    font-size: 13.0px;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 20px;
+    text-decoration:none;    
+}
+
+/* 点击展开详情 */
+.gua-high {
+    height: 100px;
+    border: 2px solid red;
+    margin-bottom: 30px;
+}
+
+
+.header-div {
+    float: right;
+    margin-right: 30px;
+    margin-top: 20px;
+    font-size: 14px;
+    
+}
+
+.header-div a {
+    text-decoration: none;
+    margin-left: 30px;
+    padding: 3px;
+    background-color: #4e6ef2;
+    border-radius: 7px 7px 7px 7px;
+    display: inline-block;
+    width: 50px;
+    text-align: center;
+    color: floralwhite ;
+
+}
+
+.home-img {
+    width: 100%;
+    height: 300px;
+    vertical-align: middle;
+    text-align: center;
+    margin-left: 120px;
+}
+
+.home-img img{
+    width: 270px;
+    height: 129px;
+    margin-top: 50px;
+}
+
+
+
+.gua-from {
+    text-align: center;
+    margin-top: -70px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home-input{
+    width: 512px;
+    height: 13px;
+    padding: 12px 16px;
+    font-size: 16px;
+    vertical-align: top;
+    outline: 0;
+    box-shadow: none;
+    border-radius: 10px 0 0 10px;
+    border: 2px solid #c4c7ce;
+    background: #fff;
+    color: #222;
+    margin-bottom: 80px;
+    overflow: hidden;
+    box-sizing: content-box;
+    -webkit-tap-highlight-color: transparent;
+}
+
+
+.span-input {
+    width: 108px;
+    line-height: 45px;
+    margin-top: -200px;
+    background-color: #4e6ef2;
+    border-radius: 0 10px 10px 0;
+    font-size: 17px;
+    color: #fff;
+    font-weight: 400;
+    border: none;
+}
+
+.span-input.gua-height {
+    background-color: #2851f5;
+}
+
+.inp-span {
+    
+    margin-bottom: 72px;
+}
+
+.span1 {
+    margin-right: 5px;
+    font-size: 20px;
+}
+
+.span-div {
+    list-style-type:none;
+    width: 600px;
+    height: 200px;
+    text-align:left ;
+    margin-left: 480px;
+    margin-bottom: 120px;
+    box-sizing: content-box;
+}
+
+.span-div li span {
+    margin-right: 10px;;
+}
+
+.span-div li a {
+    text-decoration:none;
+    font-size: 17px;
+    content: 100px;
+}
+
+.span-div li a .gua-high {
+    background-color: #2851f5;
+}
+
+.li {
+    float: left;
+    width: 300px;
+    font-size: 20px;
+}
+
+
+
+a{
+    color: black;
+}
+
+.a-div {
+    margin-left: 470px;
+    font-size: 15px;
+    height: 30px;
+    top: 20px;
+    
+}
+
+.a-div a {
+    font-size: 20px;
+    margin: 10px;
+    text-decoration:none;
+    
+    
+}
+
+.foot {
+    line-height: 120px;
+    text-align: center;
+    color: rgb(134, 129, 129);
+}
